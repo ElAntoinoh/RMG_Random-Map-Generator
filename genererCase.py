@@ -28,9 +28,9 @@ def genererCase():
             image[x, y] = [newColor[0], newColor[1], newColor[2]]
 
 
-for i in range(4):
+for i in range(3):
     genererCase()
 
-    name = "cases/case" + str(i) + ".png"
+    name = "cases/case" + str(i + 9) + ".png"
 
     imwrite(name, image)
