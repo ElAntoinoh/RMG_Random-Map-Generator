@@ -140,9 +140,11 @@ def carre(decalage, i2, i):
             image[x, y] = [somme[0] / n + hasard, somme[1] / n + hasard, somme[2] / n + hasard]
 
 
-for i in range(4):
-    genererBase()
+#for i in range(4):
+i = 2
 
-    name = rep + "/base" + str(i) + ".png"
+genererBase()
 
-    imwrite(name, image)
+name = rep + "/base" + str(i) + ".png"
+
+imwrite(name, image)
