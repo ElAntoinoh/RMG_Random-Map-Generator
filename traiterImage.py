@@ -3,9 +3,9 @@ import numpy as np
 from random import randint
 
 # génération d'une image via genererImage.py
-#exec(open("./genererImage.py").read())
+#exec(open("./genererBase.py").read())
 
-image = imread("basesGenerees/base0.png")
+image = imread("bases_noires_et_blanches/base0.png")
 
 h = image.shape[0]
 
