@@ -12,12 +12,12 @@ How does RMG work ?
 
 Some black and white results of the "Diamond-Square" algorithm :
 
-<img src="./basesGenerees/base0.png" width="249"> <img src="./basesGenerees/base1.png" width="249"> <img src="./basesGenerees/base2.png" width="249"> <img src="./basesGenerees/base3.png" width="249">
+<img src="./bases_noires_et_blanches/base0.png" width="249"> <img src="./bases_noires_et_blanches/base1.png" width="249"> <img src="./bases_noires_et_blanches/base2.png" width="249"> <img src="./bases_noires_et_blanches/base3.png" width="249">
 
 Some colored results of the "Diamond-Square" algorithm :
 
-<img src="./basesGenerees/base4.png" width="249"> <img src="./basesGenerees/base5.png" width="249"> <img src="./basesGenerees/base6.png" width="249"> <img src="./basesGenerees/base7.png" width="249">
+<img src="./bases_colorees/base0.png" width="249"> <img src="./bases_colorees/base1.png" width="249"> <img src="./bases_colorees/base2.png" width="249"> <img src="./bases_colorees/base3.png" width="249">
 
 Here are the examples of every possible country types. They were generated from the first black and white "Diamond-Square" algorithm result exemple.
 
-<img src="./cartesGenerees/autre.png" width="249"> <img src="./cartesGenerees/desert.png" width="249"> <img src="./cartesGenerees/enfer.png" width="249"> <img src="./cartesGenerees/glace.png" width="249">
+<img src="./cartes/autre.png" width="249"> <img src="./cartes/desert.png" width="249"> <img src="./cartes/enfer.png" width="249"> <img src="./cartes/glace.png" width="249">
