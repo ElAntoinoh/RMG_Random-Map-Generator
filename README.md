@@ -27,4 +27,5 @@ Here are the examples of every possible country types. They were generated from 
 
 Here is a color ( 255, 150, 150 ). Next to her are examples of squares generated from her color.
 
-<img src="./cases/glace_bord-eau.png" width="198"> <img src="./cases/case0.png" width="198"> <img src="./cases/case1.png" width="198"> <img src="./cases/case2.png" width="198"> <img src="./cases/case3.png" width="198">
+<img src="./cases/150-150-255.png" width="122"> <img src="./cases/case0.png" width="122"> <img src="./cases/0-255-0.png" width="122"> <img src="./cases/case3.png" width="122"> <img src="./cases/32-32-32.png" width="122"> <img src="./cases/case6.png" width="122"> <img src="./cases/255-255-255.png" width="122"> <img src="./cases/case9.png" width="122">
+<img src="./cases/case1.png" width="122"> <img src="./cases/case2.png" width="122"> <img src="./cases/case4.png" width="122"> <img src="./cases/case5.png" width="122"> <img src="./cases/case7.png" width="122"> <img src="./cases/case8.png" width="122"> <img src="./cases/case10.png" width="122"> <img src="./cases/case11.png" width="122">
