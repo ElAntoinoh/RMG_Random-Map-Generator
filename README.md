@@ -25,7 +25,7 @@ Here are the examples of every possible country types. They were generated from 
 
 <img src="./cartes/autre.png" width="249"> <img src="./cartes/desert.png" width="249"> <img src="./cartes/enfer.png" width="249"> <img src="./cartes/glace.png" width="249">
 
-Here is a color ( 255, 150, 150 ). Next to her are examples of squares generated from her color.
+Here are some colors. Next to them, there are examples of textures generated from their color.
 
 <img src="./cases/150-150-255.png" width="122"> <img src="./cases/case0.png" width="122"> <img src="./cases/0-255-0.png" width="122"> <img src="./cases/case3.png" width="122"> <img src="./cases/32-32-32.png" width="122"> <img src="./cases/case6.png" width="122"> <img src="./cases/255-255-255.png" width="122"> <img src="./cases/case9.png" width="122">
 <img src="./cases/case1.png" width="122"> <img src="./cases/case2.png" width="122"> <img src="./cases/case4.png" width="122"> <img src="./cases/case5.png" width="122"> <img src="./cases/case7.png" width="122"> <img src="./cases/case8.png" width="122"> <img src="./cases/case10.png" width="122"> <img src="./cases/case11.png" width="122">
