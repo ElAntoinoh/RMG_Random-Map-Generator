@@ -61,6 +61,6 @@ tabTypes = ["desert", "glace", "enfer", "autre"]
 for i in range(len(tabTypes)):
     traiterImage(tabTypes[i])
 
-    name = "cartesGenerees/" + tabTypes[i] + ".png"
+    name = "cartes/" + tabTypes[i] + ".png"
 
     imwrite(name, map)
